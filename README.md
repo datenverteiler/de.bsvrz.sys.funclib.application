@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.application v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.application.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.application)
+de.bsvrz.sys.funclib.application v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.application.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.application)
 ========================================
 
 
